@@ -105,9 +105,9 @@ result = evaluate(
 -----------
 ##### Test Dataset:
 
-![test_datset](./img/test_datset.png)
+![test_dataset](./img/test_dataset.png)
 
-![test_datset_expanded](./img/test_datset_expanded.png)
+![test_dataset_expanded](./img/test_dataset_expanded.png)
 
 -----------
 ##### Build QA Chain:
